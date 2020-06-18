@@ -29,6 +29,6 @@ _HTML, CSS, Bootstrap_
 
 ### License
 
-*GLP*
+*GPL*
 
 Copyright (c) 2016 **_Chris VanderPluym_**
