@@ -45,7 +45,7 @@ h2 {
   font-size: larger;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 400px) {
   .column {
     width: 100%;
     float: left;
