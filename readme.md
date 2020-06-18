@@ -11,6 +11,7 @@ _This is a simple html page that will serve as a portal in the future to showcas
 ## Setup/Installation Requirements
 
 * In order to see the intricacies of my page, please clone it from my repository on GitHub at https://github.com/Veeep/Portfolio
+* If you just want to view my page you can follow the link https://veeep.github.io/Portfolio/
 
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_

@@ -1,6 +1,13 @@
 .heading {
-  background-color: aqua;
-  color: forestgreen;
+  background-color: cornsilk;
+  color: darkblue;
+  padding: 20px;
+  border: solid 2px; 
+}
+
+.subhead {
+  color: darkgreen;
+  font-weight: 500;
 }
 
 img {
@@ -16,7 +23,7 @@ img {
 
 .column {
   background-color: cornsilk;
-  margin: 12px;
+  margin: 17px;
   border: 2px solid rgb(19, 25, 73);
   padding: 4px;
   width: 44%;
