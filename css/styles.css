@@ -21,6 +21,9 @@ img {
   padding: 4px;
   width: 45%;
   float: left;
+  color: darkgreen;
+  font-weight: 500;
+  font-size: larger;
 }
 
 .top {
@@ -31,4 +34,3 @@ img {
 h2 {
   font-weight: 600;
 }
-
