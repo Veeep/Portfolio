@@ -12,7 +12,7 @@
 
 img {
   float: left;
-  width: 40%;
+  width: 80%;
 }
 
 .aboutme {
@@ -52,7 +52,7 @@ h2 {
     padding: 20px;
   }
   .col-md-4 {
-    width: 100%;
+    padding-left: 20%;
     float: left;
     padding: 20px;
   }
