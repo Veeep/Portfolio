@@ -51,10 +51,9 @@ h2 {
     float: left;
     padding: 20px;
   }
-  .col-md-4 {
+  img {
     padding-left: 20%;
-    float: left;
-    padding: 20px;
+    float: none;
   }
   .col-md-8 {
     width: 100%;
@@ -63,4 +62,21 @@ h2 {
   }
 }
 
+@media screen and (max-width: 1300px) and (min-width: 1000px) {
+  .col-md-4 {
+    width: 40%;
+  }
+  .col-md-8 {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 2000px) and (min-width: 1300px) {
+  .col-md-4 {
+    width: 20%;
+  }
+  .col-md-8 {
+    width: 80%;
+  }
+}
 
